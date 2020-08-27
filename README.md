@@ -38,7 +38,7 @@ My project goal is to make Linkerd officially support ARM architecture.
 ## Presentation
 
   - Slide: [Google Slides](https://docs.google.com/presentation/d/1zbHpUjfrMqQnUaUbSkyPQOhtjM_b5vvEv3ZVce0z5E8/edit?usp=sharing)
-  - Video: coming soon
+  - Video: [YouTube](https://youtu.be/zit3JJRz_wY?t=2280)
 
 ## Conclusion
 
